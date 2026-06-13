@@ -2,8 +2,6 @@
 
 **Estudiante:** Roger Rodriguez  
 **Matricula:** 20250757  
-**Materia:** Networking  
-**Plataforma:** EVE-NG  
 **Fecha:** 12 de junio de 2026  
 
 Link: https://youtu.be/qO7KD88EJac
